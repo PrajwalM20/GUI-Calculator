@@ -16,6 +16,7 @@ This is a simple yet fully functional calculator built using Python's `Tkinter` 
 
 
 
+
 Make sure you have Python 3 installed.
 🛠️ Requirements
 Python 3.x
@@ -27,10 +28,7 @@ GUI design using Tkinter
 Event handling
 Python functions and layout management
 
-
-
-
-
+ 
 ## 🚀 How to Run
 
 1. Clone the repo:
@@ -39,9 +37,6 @@ git clone https://github.com/YourUsername/CalculatorGUI.git
 cd CalculatorGUI
 
 
-
-
 2.Run the Python file:
-
 python CalculatorGUI.py
 
